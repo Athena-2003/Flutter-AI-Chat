@@ -13,28 +13,28 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:4:5-66
-15-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:4:22-64
+15-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:4:5-66
+15-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:4:22-64
 16    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-16-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:3:5-70
-16-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:3:22-68
+16-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:3:5-70
+16-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:3:22-68
 17    <uses-permission android:name="android.permission.BLUETOOTH" />
-17-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:5:5-67
-17-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:5:22-65
+17-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:5:5-67
+17-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:5:22-65
 18    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-18-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:6:5-73
-18-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:6:22-71
+18-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:6:5-73
+18-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:6:22-71
 19    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
-19-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:7:5-75
-19-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:7:22-73
+19-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:7:5-75
+19-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:7:22-73
 20
 21    <queries>
-21-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:8:5-12:15
+21-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:8:5-12:15
 22        <intent>
-22-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:9:9-11:18
+22-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:9:9-11:18
 23            <action android:name="android.speech.RecognitionService" />
-23-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:10:13-72
-23-->/home/shashankbn/Documents/voice_assistant/android/app/src/main/AndroidManifest.xml:10:21-69
+23-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:10:13-72
+23-->/home/shashankbn/Documents/Social-App/android/app/src/main/AndroidManifest.xml:10:21-69
 24        </intent>
 25    </queries>
 26
