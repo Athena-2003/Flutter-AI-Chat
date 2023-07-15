@@ -1,0 +1,16 @@
+com.example.untitled.app-jetified-window-java-1.0.0-beta04-0 /home/shashankbn/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.untitled.app-core-1.8.0-1 /home/shashankbn/.gradle/caches/transforms-3/270e9501dde0430a83746f97bf9ab544/transformed/core-1.8.0/res
+com.example.untitled.app-lifecycle-runtime-2.3.1-2 /home/shashankbn/.gradle/caches/transforms-3/76da31ad033c53187dd7271282d0f7d2/transformed/lifecycle-runtime-2.3.1/res
+com.example.untitled.app-jetified-annotation-experimental-1.1.0-3 /home/shashankbn/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.untitled.app-jetified-core-ktx-1.8.0-4 /home/shashankbn/.gradle/caches/transforms-3/b431c95aeca551584d4466c6f05603c2/transformed/jetified-core-ktx-1.8.0/res
+com.example.untitled.app-jetified-window-1.0.0-beta04-5 /home/shashankbn/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.untitled.app-debug-6 /home/shashankbn/Documents/ai/android/app/src/debug/res
+com.example.untitled.app-main-7 /home/shashankbn/Documents/ai/android/app/src/main/res
+com.example.untitled.app-pngs-8 /home/shashankbn/Documents/ai/build/app/generated/res/pngs/debug
+com.example.untitled.app-resValues-9 /home/shashankbn/Documents/ai/build/app/generated/res/resValues/debug
+com.example.untitled.app-rs-10 /home/shashankbn/Documents/ai/build/app/generated/res/rs/debug
+com.example.untitled.app-mergeDebugResources-11 /home/shashankbn/Documents/ai/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.untitled.app-mergeDebugResources-12 /home/shashankbn/Documents/ai/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.untitled.app-merged_res-13 /home/shashankbn/Documents/ai/build/app/intermediates/merged_res/debug
+com.example.untitled.app-packaged_res-14 /home/shashankbn/Documents/ai/build/flutter_tts/intermediates/packaged_res/debug
+com.example.untitled.app-packaged_res-15 /home/shashankbn/Documents/ai/build/speech_to_text/intermediates/packaged_res/debug
